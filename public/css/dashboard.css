@@ -1,0 +1,27 @@
+.heading {
+    text-align: center;
+    color:cornflowerblue;
+
+}
+
+.form {
+    box-shadow: 0 2px 3px #ccc;
+    margin: 20px auto;
+    width: 40%;
+    text-align: center;
+    border: 1px solid #eee;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.button {
+    background-color: skyblue;
+    color:currentColor;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 5px;
+    margin: 5px;
+    font-weight: bold;
+    border-radius: 10px;
+}
